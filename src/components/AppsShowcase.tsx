@@ -45,7 +45,7 @@ const AppsShowcase = () => {
               <h3 className="text-2xl font-bold text-primary mb-3">
                 Tu Amazon B2B Personalizado
               </h3>
-              <p className="text-muted-foreground mb-6">
+              <p className="text-muted-foreground mb-6 min-h-14">
                 Tus clientes compran cuando quieren, como quieren. Sin llamadas, sin esperas.
               </p>
             </div>
@@ -99,7 +99,7 @@ const AppsShowcase = () => {
               <h3 className="text-2xl font-bold text-primary mb-3">
                 Tu CRM + Catálogo en el Bolsillo
               </h3>
-              <p className="text-muted-foreground mb-6">
+              <p className="text-muted-foreground mb-6 min-h-14">
                 Vendedores superpoderosos con toda la info al alcance de la mano.
               </p>
             </div>
